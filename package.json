@@ -10,6 +10,13 @@
     "url": "https://github.com/ivgenya/array-joiner.git"
   },
   "author": "Malinina Evgeniya",
-  "license": "ISC",
-  "description": "A simple utility to join array elements with a custom separator"
+  "license": "MIT",
+  "description": "A simple utility to join array elements with a custom separator",
+  "keywords": [
+    "array",
+    "join",
+    "separator",
+    "utility",
+    "npm"
+  ]
 }
