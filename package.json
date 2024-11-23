@@ -1,0 +1,15 @@
+{
+  "name": "array-joiner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivgenya/array-joiner.git"
+  },
+  "author": "Malinina Evgeniya",
+  "license": "ISC",
+  "description": "A simple utility to join array elements with a custom separator"
+}
